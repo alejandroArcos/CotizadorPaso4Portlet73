@@ -1,0 +1,34 @@
+const modo = {
+    NUEVA: "NUEVA",
+    EDICION: "EDICION",
+    COPIA: "COPIA",
+    AUX_PASO4: "AUX_PASO4",
+    ALTA_ENDOSO: "ALTA_ENDOSO",
+    BAJA_ENDOSO: "BAJA_ENDOSO",
+    EDITAR_ALTA_ENDOSO: "EDITAR_ALTA_ENDOSO",
+    EDITAR_BAJA_ENDOSO: "EDITAR_BAJA_ENDOSO",
+    CONSULTA: "CONSULTA",
+    ERROR: "ERROR",
+    RENOVACION_AUTOMATICA : "RENOVACION_AUTOMATICA",
+    CONSULTAR_RENOVACION_AUTOMATICA : "CONSULTAR_RENOVACION_AUTOMATICA"
+};
+
+
+const tipoCotizacion = {
+    ERROR: "ERROR",
+    FAMILIAR: "FAMILIAR",
+    EMPRESARIAL: "EMPRESARIAL"
+};
+
+const tipoPersona = {
+    FISICA: "FISICA",
+    MORAL: "MORAL"
+};
+
+const enlace = {
+    FAMILIAR: "/paquete-familiar",
+    EMPRESARIAL: "/paquete-empresarial",
+    PASO2: "/paso2",
+    PASO3: "/paso3",
+    PASO4: "/paso4"
+};

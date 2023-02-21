@@ -1,0 +1,80 @@
+.site-wrapper .modal .anchoModal {
+	max-width: 85%;
+}
+
+.site-wrapper .modal .colPoliza20 td {
+	width: 20%;
+}
+
+.site-wrapper .modal .celdaPoliza {
+	text-align: right;
+}
+
+.site-wrapper .modal .colPoliza10 {
+	text-align: right;
+}
+
+.site-wrapper .modal .altoTbPoliza td {
+	padding: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.site-wrapper .modal .tablaPoliza {
+	margin-bottom: 5px;
+	margin-top: 0px;
+	border-bottom: 2px solid;
+}
+
+.site-wrapper .modal .listaCorreos {
+	padding-top: 40px;
+	padding-right: 0px;
+}
+
+.site-wrapper .modal .listaCorreos>li {
+	padding-right: 0px;
+}
+
+.site-wrapper .modal .altoTbArchivos td, .site-wrapper .modal .altoTbArchivos th
+	{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	vertical-align: middle;
+}
+
+.site-wrapper .modal .scrollbarLiMod {
+	float: left;
+	height: 100%;
+	width: 100%;
+	background: #fff;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+	max-height: 260px;
+}
+
+.site-wrapper .modal .scrollbarLiMod-primary::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+	background-color: #4285F4;
+}
+
+.site-wrapper .modal .table-wrapper-scroll-y {
+	display: block;
+	max-height: 200px;
+	overflow-y: auto;
+	-ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+.site-wrapper .btn-ubicacion {
+	width: 210px;
+	height: 50px;
+}
+
+.site-wrapper .close.btnendoso{
+	font-size: 1.1rem !important;
+	padding-left: 3px;
+}
+
+.site-wrapper #tabs .card .card-header{
+	background-color: #1976d2;
+}
